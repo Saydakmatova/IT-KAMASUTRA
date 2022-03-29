@@ -1,0 +1,8 @@
+.item a {
+  color: #fff;
+  font-size: 26px;
+  text-decoration: none;
+}
+.item a.active {
+  color: blueviolet;
+}
